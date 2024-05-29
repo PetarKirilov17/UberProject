@@ -1,0 +1,26 @@
+[
+    {
+        "Brand": "BMW",
+        "MaxSeats": 5,
+        "Model": "X4",
+        "VehicleId": 1,
+        "YearOfProduction": 2020,
+        "VehicleTypeId": 1
+    },
+    {
+        "VehicleId": 2,
+        "Brand": "Audi",
+        "Model": "A6",
+        "MaxSeats": 5,
+        "YearOfProduction": 2019,
+        "VehicleTypeId": 1
+    },
+    {
+        "VehicleId": 3,
+        "Brand": "Peugeot",
+        "Model": "206",
+        "MaxSeats": 4,
+        "YearOfProduction": 2005,
+        "VehicleTypeId": 1
+    }
+]

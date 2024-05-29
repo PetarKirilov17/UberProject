@@ -1,0 +1,14 @@
+D:\UberProject\Uber\Uber.Infrastructure\bin\Debug\net6.0\Uber.Infrastructure.deps.json
+D:\UberProject\Uber\Uber.Infrastructure\bin\Debug\net6.0\Uber.Infrastructure.dll
+D:\UberProject\Uber\Uber.Infrastructure\bin\Debug\net6.0\Uber.Infrastructure.pdb
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\Uber.Infrastructure.csproj.AssemblyReference.cache
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\Uber.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\Uber.Infrastructure.AssemblyInfoInputs.cache
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\Uber.Infrastructure.AssemblyInfo.cs
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\Uber.Infrastructure.csproj.CoreCompileInputs.cache
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\Uber.Infrastructure.dll
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\refint\Uber.Infrastructure.dll
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\Uber.Infrastructure.pdb
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\ref\Uber.Infrastructure.dll
+D:\UberProject\Uber\Uber.Infrastructure\bin\Debug\net6.0\Uber.Infrastructure.runtimeconfig.json
+D:\UberProject\Uber\Uber.Infrastructure\obj\Debug\net6.0\Uber.Infrastructure.genruntimeconfig.cache

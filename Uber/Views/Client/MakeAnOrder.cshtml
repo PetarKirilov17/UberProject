@@ -1,0 +1,98 @@
+﻿@using Uber.Models.Client;
+@model MakeAnOrderViewModel;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+    <!-- Site Properties -->
+    <title>Client - Make An Order</title>
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/reset.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/site.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/container.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/grid.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/header.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/image.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/menu.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/divider.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/segment.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/form.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/input.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/button.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/list.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/message.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/icon.css">
+</head>     
+
+<body>
+    <div class="ui middle aligned center aligned grid">
+        <div class="column">
+            <form class="ui massive form" method="post">
+                    <div class="ui segment">
+                    <h2 class="ui center aligned icon header">
+                        <i class="orange clipboard list icon"></i>
+                        Make an order
+                    </h2>
+
+                    <div class="ui segment">
+                        <div class="ui two column very relaxed grid">
+                            <div class="ui column"> @*left side*@
+                                <h4 class="ui center aligned icon header">
+                                    <i class="teal address book icon"></i>
+                                    Your address
+                                </h4>
+                                <div class="field">
+                                    <label>Your latittude</label>
+                                    <input type="text" asp-for="CurrentAddressLatitude" placeholder="Type your current latitude">
+                                </div>
+                                <div class="field">
+                                    <label>Your longitude</label>
+                                    <input type="text" asp-for="CurrentAddressLongitude" placeholder="Type your current longitude">
+                                </div>
+                                <div class="field">
+                                    <label>Description for your address</label>
+                                    <input type="text" asp-for="CurrentAddressDescription" placeholder="Type descrption for your address">
+                                </div>
+                            </div>                  
+                            <div class="ui column">
+                                @*rigt side*@
+                                <h4 class="ui center aligned icon header">
+                                    <i class="teal address book icon"></i>
+                                    Destination address
+                                </h4>
+                                <div class="field">
+                                    <label>Destination latittude</label>
+                                    <input type="text" asp-for="DestinationLatitude" placeholder="Type the destination latitude">
+                                </div>
+                                <div class="field">
+                                    <label>Destination longitude</label>
+                                    <input type="text" asp-for="DestinationLongitude" placeholder="Type the destination longitude">
+                                </div>
+                                <div class="field">
+                                    <label>Description for the destination</label>
+                                    <input type="text" asp-for="DestinationDescription" placeholder="Type descrption for the destination">
+                                </div>
+                            </div>                      
+                        </div>
+                        <div class="ui vertical divider">
+                            <i class="ui location arrow icon"></i>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label>Count of Seats</label>
+                        <input type="number" asp-for="CountOfSeats">
+                    </div>
+                    <div class="row">
+                        <button class="ui center aligned primary button" type="submit">Submit</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+[
+
+    {
+        "StatusId": 1,
+        "Label": "Pending"
+    },
+    {
+        "StatusId": 2,
+        "Label": "Accepted"
+    },
+    {
+        "StatusId": 3,
+        "Label": "Ready"
+    },
+    {
+        "StatusId": 4,
+        "Label": "Waiting"
+    }
+]

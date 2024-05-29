@@ -1,0 +1,93 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@using Uber.Models.Driver;
+@model IEnumerable<DriverIndexViewModel>;
+@inject Microsoft.AspNetCore.Identity.UserManager<IdentityUser> _userManager;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Standard Meta -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+    <!-- Site Properties -->
+    <title>Driver - Index</title>
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/reset.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/site.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/container.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/grid.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/header.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/image.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/menu.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/divider.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/segment.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/form.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/input.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/button.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/list.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/message.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/icon.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/table.css">
+</head>
+
+<body>
+    <table class="ui padded table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.DrivingLicence)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.YearsOfExperience)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Longitude)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Latitude)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                var user = await _userManager.GetUserAsync(User);
+                bool isAdmin = await _userManager.IsInRoleAsync(user, "Admin");
+                if (isAdmin || item.IsApproved) // here we are using the short-circuit evaluation of or expression
+                {
+                    <tr>
+                        <td class="ui center aligned">
+                            @Html.DisplayFor(modelItem => item.DrivingLicence)
+                        </td>
+                        <td class="ui center aligned">
+                            @Html.DisplayFor(modelItem => item.YearsOfExperience)
+                        </td>
+                        <td class="ui center aligned">
+                            @Html.DisplayFor(modelItem => item.Longitude)
+                        </td>
+                        <td class="ui center aligned">
+                            @Html.DisplayFor(modelItem => item.Latitude)
+                        </td>
+                        <td class="ui center aligned">
+                            @if (isAdmin && !item.IsApproved)
+                            {
+                                <a asp-action="ApproveDriver" asp-route-driverId="@item.DriverId" asp-controller="Admin">Approve</a>
+                            }                           
+                            @*<a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>*@
+                        </td>
+                    </tr>
+                }              
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>

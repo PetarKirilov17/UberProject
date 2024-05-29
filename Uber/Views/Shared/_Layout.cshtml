@@ -1,0 +1,162 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@inject Microsoft.AspNetCore.Identity.SignInManager<IdentityUser> _signInManager;
+@inject Microsoft.AspNetCore.Identity.UserManager<IdentityUser> _userManager;
+@inject Uber.Core.Contracts.IClientService _clientService;
+@inject Uber.Core.Contracts.IPersonService _personService;
+@inject Uber.Core.Contracts.IDriverService _driverService;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Uber</title>
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/reset.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/site.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/container.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/grid.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/header.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/image.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/menu.css">                                           
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/divider.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/list.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/segment.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/dropdown.css">
+    <link rel="stylesheet" type="text/css" href="~/lib/fomantic-ui/dist/components/icon.css">
+
+    <style type="text/css">
+  body {
+    background-color: #FFFFFF;
+  }
+  .ui.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+  .main.container {
+    margin-top: 7em;
+  }
+  .wireframe {
+    margin-top: 2em;
+  }
+  .ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+  }
+  </style>
+
+</head>
+<body>
+    <div class="ui fixed inverted menu">
+        <div class="ui container">
+            <a class="header item" asp-controller="Home" asp-action="Index">
+                Uber Project
+            </a>
+            <div class="ui simple dropdown item">
+                Features <i class="dropdown icon"></i>
+                <div class="menu">
+                    <a class="item" href="#">Orders</a>
+                    <a class="item" href="#">Cars</a>
+                    <div class="divider"></div>
+                    <div class="item">
+                        <i class="dropdown icon"></i>
+                        Users
+                        <div class="menu">
+                            <a class="item" href="#">Clients</a>
+                            <a class="item" asp-action="Index" asp-controller="Driver">Drivers</a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <i class="dropdown icon"></i>
+                        Manage
+                        <div class="menu">
+                            <a class="item" asp-action="ChangePassword" asp-controller="Account">Change your password</a>
+                            <a class="item" asp-action="ChangeEmail" asp-controller="Account">Change your email</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @{
+                // checks if the client has already applied to be a driver
+                var userId = _userManager.GetUserId(User);
+                var person = (await _personService.GetAllPeople()).Where(p => p.UserId == userId).FirstOrDefault();
+
+                if (person != null)
+                {
+                    var driver = (await _driverService.GetAllDrivers()).Where(d => d.PersonId == person.Id).FirstOrDefault();
+                    bool isAlreadyADriver = driver != null;
+                    if (_signInManager.IsSignedIn(User) && User.IsInRole("Client") && !isAlreadyADriver)
+                    {
+                        <a class="header item" asp-controller="Client" asp-action="ApplyForDriver">
+                            Apply for Driver
+                        </a>
+                    }
+                }
+                
+            }
+            @if (_signInManager.IsSignedIn(User) && User.Identity != null)
+            {
+                <div class="ui right aligned item">
+                    <div>
+                        <h5 class="item middle aligned">Hello @User.Identity.Name</h5>
+                    </div>
+                    <div>
+                        <a class="item middle aligned" asp-controller="Account" asp-action="Logout">Logout</a>
+                    </div>           
+                </div>
+            }
+            else
+            {
+                <div class="ui right aligned item">
+                    <a class="item" asp-controller="Account" asp-action="Register">Register</a>
+                    <a class="item" asp-controller="Account" asp-action="Login">Login</a>
+                </div>
+            }
+            
+        </div>
+    </div>
+
+    <div class="ui main text container">
+        @*<h1 class="ui header">Uber Project</h1>
+        <p>This is a driver management system that connects taxi drivers with clients</p>
+        <img class="ui big image" src="@Url.Content("~/imagesDemo/taxiDriver.jpg")">*@
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <div class="ui inverted vertical footer segment">
+        <div class="ui center aligned container">
+            <div class="ui stackable inverted divided grid">
+                <div class="four wide column">
+                    <h4 class="ui inverted header">Orders</h4>
+                    <div class="ui inverted link list">
+                        <a href="#" class="item">Accepted Orders</a>
+                        <a href="#" class="item">Declined Orders</a>
+                    </div>
+                </div>
+                <div class="four wide column">
+                    <h4 class="ui inverted header">Users</h4>
+                    <div class="ui inverted link list">
+                        <a href="#" class="item">Clients</a>
+                        <a href="#" class="item">Drivers</a>
+                    </div>
+                </div>
+                <div class="eight wide column">
+                    <h4 class="ui inverted header">Footer</h4>
+                    <p>Footer content</p>
+                </div>
+            </div>
+            <div class="ui inverted section divider"></div>
+            <img class="ui small centered image" src="@Url.Content("~/imagesDemo/taxiIco.svg")">
+            <div class="ui horizontal inverted small divided link list">
+                <a class="item" href="#">Contact Us</a>
+                <a class="item" asp-controller="Home" asp-action="Privacy">Privacy Policy</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,1037 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Uber.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Uber.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\imagesDemo\\clientIco.png",
+      "PackagePath": "staticwebassets\\imagesDemo\\clientIco.png"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\imagesDemo\\driverIco.png",
+      "PackagePath": "staticwebassets\\imagesDemo\\driverIco.png"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\imagesDemo\\taxiDriver.jpg",
+      "PackagePath": "staticwebassets\\imagesDemo\\taxiDriver.jpg"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\imagesDemo\\taxiIco.svg",
+      "PackagePath": "staticwebassets\\imagesDemo\\taxiIco.svg"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\imagesDemo\\uber.svg",
+      "PackagePath": "staticwebassets\\imagesDemo\\uber.svg"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\imagesDemo\\uberIcon.png",
+      "PackagePath": "staticwebassets\\imagesDemo\\uberIcon.png"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\accordion.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\accordion.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\accordion.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\accordion.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\accordion.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\accordion.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\accordion.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\accordion.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\ad.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\ad.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\ad.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\ad.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\api.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\api.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\api.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\api.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\breadcrumb.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\breadcrumb.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\breadcrumb.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\button.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\button.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\button.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\button.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\calendar.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\calendar.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\calendar.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\calendar.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\calendar.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\calendar.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\calendar.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\calendar.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\card.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\card.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\card.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\card.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\checkbox.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\checkbox.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\checkbox.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\checkbox.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\checkbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\checkbox.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\checkbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\checkbox.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\comment.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\comment.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\comment.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\comment.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\container.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\container.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\container.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\container.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\dimmer.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\dimmer.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\dimmer.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\dimmer.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\dimmer.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\dimmer.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\dimmer.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\dimmer.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\divider.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\divider.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\divider.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\divider.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\dropdown.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\dropdown.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\dropdown.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\dropdown.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\dropdown.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\dropdown.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\embed.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\embed.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\embed.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\embed.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\embed.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\embed.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\embed.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\embed.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\emoji.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\emoji.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\emoji.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\emoji.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\feed.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\feed.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\feed.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\feed.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\flag.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\flag.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\flag.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\flag.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\flyout.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\flyout.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\flyout.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\flyout.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\flyout.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\flyout.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\flyout.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\flyout.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\form.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\form.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\form.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\form.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\form.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\form.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\form.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\form.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\grid.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\grid.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\grid.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\header.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\header.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\header.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\header.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\icon.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\icon.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\icon.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\icon.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\image.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\image.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\image.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\image.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\input.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\input.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\input.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\input.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\item.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\item.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\item.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\item.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\label.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\label.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\label.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\label.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\list.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\list.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\list.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\list.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\loader.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\loader.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\loader.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\loader.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\menu.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\menu.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\menu.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\menu.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\message.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\message.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\message.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\message.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\modal.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\modal.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\modal.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\modal.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\modal.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\modal.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\modal.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\nag.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\nag.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\nag.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\nag.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\nag.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\nag.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\nag.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\nag.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\placeholder.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\placeholder.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\placeholder.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\placeholder.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\popup.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\popup.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\popup.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\popup.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\popup.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\popup.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\popup.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\popup.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\progress.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\progress.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\progress.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\progress.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\progress.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\progress.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\progress.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\progress.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\rail.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\rail.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\rail.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\rail.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\rating.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\rating.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\rating.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\rating.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\rating.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\rating.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\rating.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\rating.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\reset.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\reset.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\reset.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\reset.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\reveal.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\reveal.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\reveal.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\reveal.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\search.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\search.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\search.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\search.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\search.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\search.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\search.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\search.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\segment.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\segment.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\segment.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\segment.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\shape.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\shape.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\shape.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\shape.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\shape.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\shape.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\shape.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\shape.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\sidebar.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\sidebar.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\sidebar.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\sidebar.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\sidebar.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\sidebar.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\sidebar.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\sidebar.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\site.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\site.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\site.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\site.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\site.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\site.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\site.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\site.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\slider.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\slider.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\slider.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\slider.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\slider.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\slider.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\slider.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\slider.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\state.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\state.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\state.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\state.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\statistic.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\statistic.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\statistic.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\statistic.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\step.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\step.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\step.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\step.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\sticky.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\sticky.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\sticky.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\sticky.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\sticky.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\sticky.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\sticky.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\sticky.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\tab.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\tab.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\tab.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\tab.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\tab.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\tab.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\tab.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\table.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\table.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\table.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\table.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\text.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\text.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\text.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\text.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\toast.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\toast.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\toast.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\toast.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\toast.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\toast.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\toast.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\transition.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\transition.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\transition.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\transition.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\transition.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\transition.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\transition.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\transition.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\visibility.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\visibility.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\components\\visibility.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\components\\visibility.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\semantic.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\semantic.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\semantic.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\semantic.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\semantic.min.css",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\semantic.min.css"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\semantic.min.js",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\semantic.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\basic\\assets\\fonts\\icons.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\basic\\assets\\fonts\\icons.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\basic\\assets\\fonts\\icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\basic\\assets\\fonts\\icons.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Bold.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Bold.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Bold.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Bold.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-BoldItalic.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-BoldItalic.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Italic.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Italic.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Italic.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Italic.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Regular.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\Lato-Regular.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Bold.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Bold.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Bold.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Bold.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-BoldItalic.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-BoldItalic.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Italic.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Italic.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Italic.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Italic.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Regular.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\LatoLatin-Regular.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\brand-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\brand-icons.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\brand-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\brand-icons.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\icons.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\icons.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\icons.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\outline-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\outline-icons.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\outline-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\default\\assets\\fonts\\outline-icons.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\famfamfam\\assets\\images\\flags.png",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\famfamfam\\assets\\images\\flags.png"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\github\\assets\\fonts\\octicons.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\github\\assets\\fonts\\octicons.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\github\\assets\\fonts\\octicons.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\github\\assets\\fonts\\octicons.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\material\\assets\\fonts\\icons.woff",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\material\\assets\\fonts\\icons.woff"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\fomantic-ui\\dist\\themes\\material\\assets\\fonts\\icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\fomantic-ui\\dist\\themes\\material\\assets\\fonts\\icons.woff2"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\UberProject\\Uber\\Uber\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Uber.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Uber.props",
+      "PackagePath": "build\\Uber.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Uber.props",
+      "PackagePath": "buildMultiTargeting\\Uber.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Uber.props",
+      "PackagePath": "buildTransitive\\Uber.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

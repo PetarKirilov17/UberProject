@@ -1,0 +1,6 @@
+[
+    {"TypeId": 1, "Label": "Car" },
+    {"TypeId": 2, "Label": "Van" },
+    {"TypeId": 3, "Label": "SUV" },
+    {"TypeId": 4, "Label" : "Cabriolet"}
+]
